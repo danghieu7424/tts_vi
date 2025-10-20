@@ -22,14 +22,20 @@ vits_tts/
  ├── data/
  │    ├── configs/
  │    │    └── config_vi.json
- │    ├── filelists/
- │    │    ├── sentences.txt
- │    │    ├── sentences_advanced.txt
- │    │    └── sentences_dialogue.txt
- │    └── wavs/
- │         ├── 0001.wav
- │         ├── 0002.wav
- │         └── ...
+ │    ├──  wavs/
+ │    │    ├── 0
+ │    │    │   ├── 0.wav
+ │    │    │   ├── 1.wav
+ │    │    │   └── ...
+ │    │    ├── 1
+ │    │    │   ├── 0.wav
+ │    │    │   ├── 1.wav
+ │    │    │   └── ...
+ │    │    └── ...
+ │    ├── metadata_1.csv
+ │    ├── metadata_2.csv
+ │    ├── metadata_3.csv
+ │    └── metadata_test.csv
  ├── train.py
  └── inference.py
 ```
