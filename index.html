@@ -1,0 +1,112 @@
+<!doctype html>
+<html lang="vi">
+<head>
+  <meta charset="utf-8" />
+  <meta name="viewport" content="width=device-width,initial-scale=1" />
+  <title>Text → SRT (5s mỗi dòng)</title>
+  <style>
+    body { font-family: Inter, system-ui, -apple-system, "Segoe UI", Roboto, "Helvetica Neue", Arial; padding: 20px; max-width: 900px; margin: auto; color:#111 }
+    h1 { font-size: 20px; margin-bottom: 8px }
+    textarea { width:100%; height:220px; padding:10px; font-size:15px; box-sizing:border-box; }
+    pre { white-space:pre-wrap; background:#f7f7fb; padding:12px; border-radius:8px; overflow:auto; max-height:320px; }
+    .controls { display:flex; gap:8px; margin:10px 0 18px; align-items:center; flex-wrap:wrap; }
+    button { padding:8px 12px; border-radius:8px; border:1px solid #ccc; background:#fff; cursor:pointer }
+    button.primary { background:#2563eb; color:#fff; border-color: #1e40af }
+    label { font-size:14px }
+    .small { font-size:13px; color:#555 }
+  </style>
+</head>
+<body>
+  <h1>Chuyển Text → SRT (mỗi dòng 5 giây)</h1>
+  <p class="small">Dán đoạn văn vào dưới, nhấn <strong>Generate SRT</strong> để tạo file .srt. Mỗi dòng subtitle có độ dài 5.000 ms.</p>
+
+  <textarea id="inputText" aria-label="Input text" autofocus></textarea>
+
+  <div class="controls">
+    <button id="generateBtn" class="primary">Generate SRT</button>
+    <button id="copyBtn">Copy SRT</button>
+    <a id="downloadLink" style="display:none" download="subtitles.srt">Tải SRT</a>
+    <label style="margin-left:auto">
+      <input type="checkbox" id="skipEmpty" checked />
+      <span class="small">Bỏ qua dòng rỗng</span>
+    </label>
+  </div>
+
+  <h2 style="font-size:16px; margin-top:6px">Kết quả SRT</h2>
+  <pre id="outputSrt" aria-live="polite"></pre>
+
+<script>
+(function(){
+  const input = document.getElementById('inputText');
+  const out = document.getElementById('outputSrt');
+  const gen = document.getElementById('generateBtn');
+  const copyBtn = document.getElementById('copyBtn');
+  const downloadLink = document.getElementById('downloadLink');
+  const skipEmpty = document.getElementById('skipEmpty');
+
+  // Format milliseconds -> "hh:mm:ss,mmm"
+  function formatTime(ms) {
+    const total = Math.max(0, Math.floor(ms));
+    const hours = Math.floor(total / 3600000);
+    const minutes = Math.floor((total % 3600000) / 60000);
+    const seconds = Math.floor((total % 60000) / 1000);
+    const millis = total % 1000;
+    const z = n => String(n).padStart(2, '0');
+    const zm = n => String(n).padStart(3, '0');
+    return `${z(hours)}:${z(minutes)}:${z(seconds)},${zm(millis)}`;
+  }
+
+  // Tạo SRT, mỗi dòng có durationMs (5000)
+  function makeSrt(text, durationMs = 5000, skipEmptyLines = true) {
+    // tách theo dòng, giữ order
+    const rawLines = text.split(/\r?\n/).map(l => l.replace(/\s+/g,' ').trim());
+    const lines = rawLines.filter(l => !skipEmptyLines || l.length > 0);
+    let srt = '';
+    let cursor = 0; // ms
+    for (let i = 0; i < lines.length; i++) {
+      const idx = i + 1;
+      const start = cursor;
+      const end = cursor + durationMs;
+      srt += `${idx}\n`;
+      srt += `${formatTime(start)} --> ${formatTime(end)}\n`;
+      srt += `${lines[i]}\n\n`;
+      cursor = end;
+    }
+    return srt.trim();
+  }
+
+  function createDownload(srtText) {
+    const blob = new Blob([srtText], {type: 'text/plain;charset=utf-8'});
+    const url = URL.createObjectURL(blob);
+    downloadLink.href = url;
+    downloadLink.style.display = 'inline-block';
+    downloadLink.textContent = 'Tải SRT';
+    // revoke old object URL when clicked or next generation
+    downloadLink.onclick = () => { setTimeout(()=>{ URL.revokeObjectURL(url); }, 1500); };
+  }
+
+  gen.addEventListener('click', () => {
+    const text = input.value || '';
+    const srt = makeSrt(text, 5000, skipEmpty.checked);
+    out.textContent = srt || '[Không có nội dung để tạo SRT]';
+    createDownload(srt);
+  });
+
+  copyBtn.addEventListener('click', async () => {
+    const txt = out.textContent;
+    if (!txt) return;
+    try {
+      await navigator.clipboard.writeText(txt);
+      copyBtn.textContent = 'Đã copy ✓';
+      setTimeout(()=> copyBtn.textContent = 'Copy SRT', 1600);
+    } catch(e) {
+      alert('Không thể copy — hãy bôi đen và copy thủ công.');
+    }
+  });
+
+  // Tạo sẵn khi mở trang
+  gen.click();
+})();
+</script>
+</body>
+</html>

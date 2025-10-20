@@ -1,0 +1,39 @@
+1
+00:00:00,000 --> 00:00:05,000
+Cảm ơn bạn, tôi đã học được rất nhiều hôm nay.
+
+2
+00:00:05,000 --> 00:00:10,000
+Thật tuyệt khi được trò chuyện cùng bạn.
+
+3
+00:00:10,000 --> 00:00:15,000
+Chúng ta sẽ nói chuyện tiếp vào lần tới nhé.
+
+4
+00:00:15,000 --> 00:00:20,000
+Giờ thì, hãy nghỉ ngơi một chút đi.
+
+5
+00:00:20,000 --> 00:00:25,000
+Tôi sẽ đợi bạn quay lại.
+
+6
+00:00:25,000 --> 00:00:30,000
+Hẹn gặp lại trong cuộc trò chuyện tiếp theo.
+
+7
+00:00:30,000 --> 00:00:35,000
+Chúc bạn một ngày tốt lành.
+
+8
+00:00:35,000 --> 00:00:40,000
+Tôi tắt chế độ hoạt động tạm thời đây.
+
+9
+00:00:40,000 --> 00:00:45,000
+Xin chào, và hẹn gặp lại bạn sớm thôi.
+
+10
+00:00:45,000 --> 00:00:50,000
+Eta, kết thúc phiên làm việc.

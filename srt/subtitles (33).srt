@@ -1,0 +1,39 @@
+1
+00:00:00,000 --> 00:00:05,000
+Mô hình này sử dụng cấu trúc encoder–decoder.
+
+2
+00:00:05,000 --> 00:00:10,000
+Giọng nói được tổng hợp bằng mạng nơ-ron biến đổi.
+
+3
+00:00:10,000 --> 00:00:15,000
+Hệ thống cần khoảng mười nghìn bước huấn luyện để đạt chất lượng cao.
+
+4
+00:00:15,000 --> 00:00:20,000
+Dữ liệu âm thanh nên được chuẩn hóa ở tần số bốn mươi bốn phẩy một kilohertz.
+
+5
+00:00:20,000 --> 00:00:25,000
+Tệp âm thanh được lưu dưới định dạng wav mười sáu bit.
+
+6
+00:00:25,000 --> 00:00:30,000
+Mô hình được lưu lại trong tệp checkpoints với phần mở rộng pth.
+
+7
+00:00:30,000 --> 00:00:35,000
+Cấu hình được định nghĩa trong file config.json.
+
+8
+00:00:35,000 --> 00:00:40,000
+Quá trình train có thể mất vài giờ tùy theo GPU.
+
+9
+00:00:40,000 --> 00:00:45,000
+Chúng ta có thể điều chỉnh tốc độ, cao độ, và cảm xúc giọng nói.
+
+10
+00:00:45,000 --> 00:00:50,000
+Sau khi huấn luyện, bạn có thể tạo giọng mới từ văn bản bất kỳ.

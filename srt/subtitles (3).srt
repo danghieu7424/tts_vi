@@ -1,0 +1,39 @@
+1
+00:00:00,000 --> 00:00:05,000
+Bạn đang làm gì thế?
+
+2
+00:00:05,000 --> 00:00:10,000
+Tôi có thể hỏi bạn một vài điều không?
+
+3
+00:00:10,000 --> 00:00:15,000
+Bạn có thích nghe nhạc không?
+
+4
+00:00:15,000 --> 00:00:20,000
+Bạn đã từng dùng trí tuệ nhân tạo chưa?
+
+5
+00:00:20,000 --> 00:00:25,000
+Tôi có nên bắt đầu huấn luyện mô hình bây giờ không?
+
+6
+00:00:25,000 --> 00:00:30,000
+Bạn muốn tôi đọc nhanh hay chậm hơn?
+
+7
+00:00:30,000 --> 00:00:35,000
+Tại sao trời lại mưa nhiều như vậy?
+
+8
+00:00:35,000 --> 00:00:40,000
+Làm thế nào để tôi có thể giúp bạn?
+
+9
+00:00:40,000 --> 00:00:45,000
+Bạn muốn nghe lại câu này chứ?
+
+10
+00:00:45,000 --> 00:00:50,000
+Bạn có biết tổng số tệp âm thanh là bao nhiêu không?

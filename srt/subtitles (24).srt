@@ -1,0 +1,39 @@
+1
+00:00:00,000 --> 00:00:05,000
+Haha, nghe vui phết nhỉ!
+
+2
+00:00:05,000 --> 00:00:10,000
+Bạn đúng là người hài hước thật đấy.
+
+3
+00:00:10,000 --> 00:00:15,000
+Tôi thích cách bạn nói chuyện.
+
+4
+00:00:15,000 --> 00:00:20,000
+Ồ, câu trả lời của bạn khiến tôi bật cười!
+
+5
+00:00:20,000 --> 00:00:25,000
+Thật tuyệt khi được nói chuyện cùng bạn.
+
+6
+00:00:25,000 --> 00:00:30,000
+Bạn đang làm tôi thấy hứng thú đấy!
+
+7
+00:00:30,000 --> 00:00:35,000
+Ồ, vui quá, bạn đang trong tâm trạng tốt phải không?
+
+8
+00:00:35,000 --> 00:00:40,000
+Bạn biết không, tôi cũng cảm thấy vui khi nghe bạn nói.
+
+9
+00:00:40,000 --> 00:00:45,000
+Tôi nghĩ cuộc trò chuyện này sẽ rất thú vị.
+
+10
+00:00:45,000 --> 00:00:50,000
+Chúng ta nói chuyện hợp nhau ghê!

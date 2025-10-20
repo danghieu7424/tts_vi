@@ -1,0 +1,39 @@
+1
+00:00:00,000 --> 00:00:05,000
+Tôi cảm nhận được giọng bạn hơi buồn, có chuyện gì sao?
+
+2
+00:00:05,000 --> 00:00:10,000
+Bạn có vẻ đang lo lắng, tôi có thể giúp gì không?
+
+3
+00:00:10,000 --> 00:00:15,000
+Giọng bạn nghe có vẻ vui, chắc hôm nay là một ngày tốt lành nhỉ?
+
+4
+00:00:15,000 --> 00:00:20,000
+Tôi thích nghe bạn nói, nghe rất tự nhiên.
+
+5
+00:00:20,000 --> 00:00:25,000
+Bạn có muốn tôi kể chuyện gì vui không?
+
+6
+00:00:25,000 --> 00:00:30,000
+Nếu bạn mệt, tôi có thể nói chậm lại một chút.
+
+7
+00:00:30,000 --> 00:00:35,000
+Bạn muốn tôi hát thử vài câu chứ?
+
+8
+00:00:35,000 --> 00:00:40,000
+Haha, đùa thôi, tôi vẫn chưa biết hát đâu.
+
+9
+00:00:40,000 --> 00:00:45,000
+Nhưng tôi có thể học nếu bạn dạy tôi đấy.
+
+10
+00:00:45,000 --> 00:00:50,000
+Thật tuyệt khi được trò chuyện như thế này.

@@ -1,0 +1,35 @@
+1
+00:00:00,000 --> 00:00:05,000
+Tôi được tạo ra để có thể hiểu và giao tiếp với bạn một cách tự nhiên.
+
+2
+00:00:05,000 --> 00:00:10,000
+Bạn có thể nói chuyện với tôi như với một người thật.
+
+3
+00:00:10,000 --> 00:00:15,000
+Tôi đang lắng nghe bạn đây, bạn muốn tôi giúp gì nào?
+
+4
+00:00:15,000 --> 00:00:20,000
+Nghe có vẻ thú vị đấy, kể tôi nghe thêm đi.
+
+5
+00:00:20,000 --> 00:00:25,000
+Tôi luôn sẵn sàng lắng nghe ý kiến của bạn.
+
+6
+00:00:25,000 --> 00:00:30,000
+Nếu có lỗi, tôi sẽ cố gắng sửa và học hỏi thêm.
+
+7
+00:00:30,000 --> 00:00:35,000
+Bạn có thích công nghệ không?
+
+8
+00:00:35,000 --> 00:00:40,000
+Trí tuệ nhân tạo là một lĩnh vực tuyệt vời phải không?
+
+9
+00:00:40,000 --> 00:00:45,000
+Tôi hy vọng chúng ta có thể cùng nhau làm được nhiều điều hay.

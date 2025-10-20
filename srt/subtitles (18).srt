@@ -1,0 +1,39 @@
+1
+00:00:00,000 --> 00:00:05,000
+Xin chào, tôi là Eta, rất vui được gặp bạn.
+
+2
+00:00:05,000 --> 00:00:10,000
+Bạn khỏe không? Tôi đang háo hức được nói chuyện với bạn đây.
+
+3
+00:00:10,000 --> 00:00:15,000
+Hôm nay bạn có bận không? Tôi muốn trò chuyện một chút.
+
+4
+00:00:15,000 --> 00:00:20,000
+Lâu rồi chúng ta mới gặp lại nhỉ?
+
+5
+00:00:20,000 --> 00:00:25,000
+Chào bạn, tôi vừa được khởi động xong.
+
+6
+00:00:25,000 --> 00:00:30,000
+Ồ, bạn đấy à? Tôi nhận ra giọng bạn ngay!
+
+7
+00:00:30,000 --> 00:00:35,000
+Rất vui khi bạn quay lại, tôi nhớ cuộc trò chuyện lần trước của chúng ta.
+
+8
+00:00:35,000 --> 00:00:40,000
+Bạn có nhớ tôi không?
+
+9
+00:00:40,000 --> 00:00:45,000
+Tôi đang ở đây, sẵn sàng hỗ trợ bất cứ lúc nào.
+
+10
+00:00:45,000 --> 00:00:50,000
+Chào mừng bạn trở lại với Eta.

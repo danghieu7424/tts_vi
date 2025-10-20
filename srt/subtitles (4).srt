@@ -1,0 +1,39 @@
+1
+00:00:00,000 --> 00:00:05,000
+Hôm nay là ngày mười tám tháng mười năm hai nghìn không trăm hai mươi lăm.
+
+2
+00:00:05,000 --> 00:00:10,000
+Thời gian hiện tại là tám giờ ba mươi phút sáng.
+
+3
+00:00:10,000 --> 00:00:15,000
+Tốc độ xử lý là hai mươi lăm khung hình mỗi giây.
+
+4
+00:00:15,000 --> 00:00:20,000
+Nhiệt độ hiện tại là hai mươi bảy độ C.
+
+5
+00:00:20,000 --> 00:00:25,000
+Tệp có dung lượng là ba mươi hai phẩy năm mê-ga-bai.
+
+6
+00:00:25,000 --> 00:00:30,000
+Tôi cần đọc mười câu trong vòng một phút.
+
+7
+00:00:30,000 --> 00:00:35,000
+Phiên bản phần mềm là một chấm không chín.
+
+8
+00:00:35,000 --> 00:00:40,000
+Pin còn lại là tám mươi phần trăm.
+
+9
+00:00:40,000 --> 00:00:45,000
+Mã xác thực gồm sáu chữ số.
+
+10
+00:00:45,000 --> 00:00:50,000
+Địa chỉ IP của máy là một chín hai chấm một sáu tám chấm không chấm một.

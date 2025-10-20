@@ -1,0 +1,39 @@
+1
+00:00:00,000 --> 00:00:05,000
+Bạn muốn tôi đọc chậm hay nhanh hơn?
+
+2
+00:00:05,000 --> 00:00:10,000
+Tôi nên nói với giọng vui vẻ hay nghiêm túc?
+
+3
+00:00:10,000 --> 00:00:15,000
+Bạn có muốn tôi giải thích chi tiết hơn không?
+
+4
+00:00:15,000 --> 00:00:20,000
+Bạn có muốn tôi lưu lại câu này không?
+
+5
+00:00:20,000 --> 00:00:25,000
+Tôi có nên nói lại lần nữa cho rõ hơn không?
+
+6
+00:00:25,000 --> 00:00:30,000
+Bạn có thích giọng của tôi không?
+
+7
+00:00:30,000 --> 00:00:35,000
+Bạn muốn tôi đọc đoạn văn tiếp theo chứ?
+
+8
+00:00:35,000 --> 00:00:40,000
+Tôi nên dừng ở đây hay tiếp tục?
+
+9
+00:00:40,000 --> 00:00:45,000
+Bạn có cảm thấy giọng này tự nhiên không?
+
+10
+00:00:45,000 --> 00:00:50,000
+Tôi có cần thay đổi ngữ điệu một chút không?

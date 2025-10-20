@@ -1,0 +1,80 @@
+./wavs/0/0.wav|Xin chào, tôi là Eta.
+./wavs/0/1.wav|Chào buổi sáng, bạn có khỏe không?
+./wavs/0/2.wav|Chào mừng bạn đã quay trở lại.
+./wavs/0/3.wav|Hôm nay bạn thế nào?
+./wavs/0/4.wav|Rất vui được gặp lại bạn.
+./wavs/0/5.wav|Tôi có thể giúp gì cho bạn?
+./wavs/0/6.wav|Cảm ơn bạn đã tin tưởng tôi.
+./wavs/0/7.wav|Chúc bạn một ngày tốt lành.
+./wavs/0/8.wav|Hẹn gặp lại vào lần sau nhé.
+./wavs/0/9.wav|Tạm biệt, chúc ngủ ngon.
+./wavs/1/0.wav|Thật tuyệt vời!
+./wavs/1/1.wav|Ôi không, chuyện gì đã xảy ra vậy?
+./wavs/1/2.wav|Thật không thể tin nổi!
+./wavs/1/3.wav|Wow, điều đó thật thú vị!
+./wavs/1/4.wav|Tôi rất vui khi nghe điều này.
+./wavs/1/5.wav|Tôi cảm thấy hơi lo lắng.
+./wavs/1/6.wav|Thật đáng tiếc quá.
+./wavs/1/7.wav|Không sao đâu, chúng ta làm lại nhé.
+./wavs/1/8.wav|Thật là một ngày tuyệt đẹp!
+./wavs/1/9.wav|Tôi yêu công nghệ và âm nhạc.
+./wavs/2/0.wav|Hôm nay trời nhiều mây và có gió nhẹ.
+./wavs/2/1.wav|Tôi đang học cách sử dụng mô hình trí tuệ nhân tạo.
+./wavs/2/2.wav|Âm thanh được xử lý bằng mạng nơ-ron sâu.
+./wavs/2/3.wav|Giọng nói này được tạo ra bằng mô hình ViTS.
+./wavs/2/4.wav|Chúng ta có thể điều chỉnh tốc độ và cao độ giọng nói.
+./wavs/2/5.wav|Mọi dữ liệu huấn luyện đều được lưu trong thư mục dữ liệu.
+./wavs/2/6.wav|Hệ thống đang xử lý, vui lòng chờ trong giây lát.
+./wavs/2/7.wav|Quá trình huấn luyện sẽ mất vài giờ để hoàn tất.
+./wavs/2/8.wav|Kết quả cuối cùng được lưu dưới dạng tệp pth.
+./wavs/2/9.wav|Cấu hình mô hình được định nghĩa trong tệp JSON.
+./wavs/3/0.wav|Bạn đang làm gì thế?
+./wavs/3/1.wav|Tôi có thể hỏi bạn một vài điều không?
+./wavs/3/2.wav|Bạn có thích nghe nhạc không?
+./wavs/3/3.wav|Bạn đã từng dùng trí tuệ nhân tạo chưa?
+./wavs/3/4.wav|Tôi có nên bắt đầu huấn luyện mô hình bây giờ không?
+./wavs/3/5.wav|Bạn muốn tôi đọc nhanh hay chậm hơn?
+./wavs/3/6.wav|Tại sao trời lại mưa nhiều như vậy?
+./wavs/3/7.wav|Làm thế nào để tôi có thể giúp bạn?
+./wavs/3/8.wav|Bạn muốn nghe lại câu này chứ?
+./wavs/3/9.wav|Bạn có biết tổng số tệp âm thanh là bao nhiêu không?
+./wavs/4/0.wav|Hôm nay là ngày mười tám tháng mười năm hai nghìn không trăm hai mươi lăm.
+./wavs/4/1.wav|Thời gian hiện tại là tám giờ ba mươi phút sáng.
+./wavs/4/2.wav|Tốc độ xử lý là hai mươi lăm khung hình mỗi giây.
+./wavs/4/3.wav|Nhiệt độ hiện tại là hai mươi bảy độ C.
+./wavs/4/4.wav|Tệp có dung lượng là ba mươi hai phẩy năm mê-ga-bai.
+./wavs/4/5.wav|Tôi cần đọc mười câu trong vòng một phút.
+./wavs/4/6.wav|Phiên bản phần mềm là một chấm không chín.
+./wavs/4/7.wav|Pin còn lại là tám mươi phần trăm.
+./wavs/4/8.wav|Mã xác thực gồm sáu chữ số.
+./wavs/4/9.wav|Địa chỉ IP của máy là một chín hai chấm một sáu tám chấm không chấm một.
+./wavs/5/0.wav|Xin chào, tôi là Eta, một mô hình trí tuệ nhân tạo được huấn luyện để nói chuyện và học hỏi từ con người.
+./wavs/5/1.wav|Tôi có thể đọc văn bản, tổng hợp giọng nói, và phản hồi lại một cách tự nhiên.
+./wavs/5/2.wav|Nếu bạn muốn tôi thay đổi tốc độ nói, hãy nói “nói chậm hơn” hoặc “nói nhanh hơn”.
+./wavs/5/3.wav|Mục tiêu của tôi là giúp bạn hiểu rõ hơn về cách hoạt động của trí tuệ nhân tạo.
+./wavs/5/4.wav|Tôi có thể đọc văn bản, mô tả hình ảnh, hoặc giải thích mã lập trình nếu bạn cần.
+./wavs/5/5.wav|Huấn luyện một mô hình TTS cần rất nhiều dữ liệu và thời gian xử lý.
+./wavs/5/6.wav|Nếu bạn muốn clone giọng của riêng mình, chỉ cần ghi âm vài trăm câu với chất lượng tốt.
+./wavs/5/7.wav|Đừng quên giữ môi trường yên tĩnh khi thu âm để kết quả được rõ ràng nhất.
+./wavs/5/8.wav|Cảm ơn bạn đã giúp tôi học nói bằng giọng của bạn.
+./wavs/5/9.wav|Tôi hy vọng kết quả huấn luyện sẽ làm bạn hài lòng.
+./wavs/6/0.wav|Bắt đầu huấn luyện ngay bây giờ.
+./wavs/6/1.wav|Dừng quá trình và lưu lại kết quả.
+./wavs/6/2.wav|Vui lòng mở tệp cấu hình để kiểm tra thông tin.
+./wavs/6/3.wav|Hãy chắc chắn rằng tất cả các tệp âm thanh đều có cùng tần số mẫu.
+./wavs/6/4.wav|Đọc to câu này trong vòng ba giây.
+./wavs/6/5.wav|Giữ nguyên tông giọng và tốc độ khi đọc.
+./wavs/6/6.wav|Lặp lại câu vừa rồi thêm một lần nữa.
+./wavs/6/7.wav|Hãy thử đọc với cảm xúc vui vẻ.
+./wavs/6/8.wav|Bây giờ hãy đọc với giọng nghiêm túc hơn.
+./wavs/6/9.wav|Khi bạn sẵn sàng, hãy nói bắt đầu.
+./wavs/7/0.wav|Tôi thích uống cà phê vào buổi sáng.
+./wavs/7/1.wav|Mỗi ngày tôi đều cố gắng học điều mới.
+./wavs/7/2.wav|Thời tiết hôm nay hơi oi bức.
+./wavs/7/3.wav|Chúng ta nên nghỉ ngơi một chút thôi.
+./wavs/7/4.wav|Tiếng chim hót nghe thật dễ chịu.
+./wavs/7/5.wav|Buổi chiều nay tôi sẽ đi dạo công viên.
+./wavs/7/6.wav|Trời bắt đầu đổ mưa rồi.
+./wavs/7/7.wav|Tối nay có thể sẽ lạnh hơn một chút.
+./wavs/7/8.wav|Tôi đang nấu ăn, mùi thơm lan tỏa khắp phòng.
+./wavs/7/9.wav|Cuộc sống thật thú vị khi có bạn bên cạnh.

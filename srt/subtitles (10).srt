@@ -1,0 +1,39 @@
+1
+00:00:00,000 --> 00:00:05,000
+Xin chào, bạn có muốn tôi giúp gì hôm nay không?
+
+2
+00:00:05,000 --> 00:00:10,000
+Ồ, đó là một câu hỏi hay đấy, để tôi nghĩ xem.
+
+3
+00:00:10,000 --> 00:00:15,000
+Tôi đang xử lý dữ liệu, vui lòng chờ một chút nhé.
+
+4
+00:00:15,000 --> 00:00:20,000
+Bạn có muốn tôi đọc lại đoạn vừa rồi không?
+
+5
+00:00:20,000 --> 00:00:25,000
+Tôi hiểu rồi, để tôi thử diễn giải lại theo cách dễ hiểu hơn.
+
+6
+00:00:25,000 --> 00:00:30,000
+Vâng, tôi đã ghi nhớ thông tin đó.
+
+7
+00:00:30,000 --> 00:00:35,000
+Bạn có muốn tôi nói chậm lại một chút không?
+
+8
+00:00:35,000 --> 00:00:40,000
+Tôi có thể nói nhanh hơn nếu bạn muốn.
+
+9
+00:00:40,000 --> 00:00:45,000
+Tôi nghĩ bạn đang nói đến phần cấu hình hệ thống, đúng chứ?
+
+10
+00:00:45,000 --> 00:00:50,000
+Hãy nói cho tôi biết bạn muốn tôi làm gì tiếp theo.

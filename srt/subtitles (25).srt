@@ -1,0 +1,39 @@
+1
+00:00:00,000 --> 00:00:05,000
+Tôi sẽ tiến hành kiểm tra hệ thống ngay.
+
+2
+00:00:05,000 --> 00:00:10,000
+Quy trình này có thể mất khoảng ba phút.
+
+3
+00:00:10,000 --> 00:00:15,000
+Vui lòng không tắt máy cho đến khi hoàn tất.
+
+4
+00:00:15,000 --> 00:00:20,000
+Tôi đã ghi nhận yêu cầu và đang xử lý.
+
+5
+00:00:20,000 --> 00:00:25,000
+Hãy đảm bảo rằng dữ liệu đầu vào đã được chuẩn hóa.
+
+6
+00:00:25,000 --> 00:00:30,000
+Báo cáo sẽ được tạo sau khi mô hình hoàn thành.
+
+7
+00:00:30,000 --> 00:00:35,000
+Tôi đang xác minh thông tin, vui lòng chờ một chút.
+
+8
+00:00:35,000 --> 00:00:40,000
+Đang tải mô hình, vui lòng đợi.
+
+9
+00:00:40,000 --> 00:00:45,000
+Kết quả đang được cập nhật, đừng rời khỏi phiên làm việc.
+
+10
+00:00:45,000 --> 00:00:50,000
+Tôi sẽ gửi thông báo khi quá trình kết thúc.

@@ -1,0 +1,39 @@
+1
+00:00:00,000 --> 00:00:05,000
+Hôm nay trời nhiều mây và có gió nhẹ.
+
+2
+00:00:05,000 --> 00:00:10,000
+Tôi đang học cách sử dụng mô hình trí tuệ nhân tạo.
+
+3
+00:00:10,000 --> 00:00:15,000
+Âm thanh được xử lý bằng mạng nơ-ron sâu.
+
+4
+00:00:15,000 --> 00:00:20,000
+Giọng nói này được tạo ra bằng mô hình ViTS.
+
+5
+00:00:20,000 --> 00:00:25,000
+Chúng ta có thể điều chỉnh tốc độ và cao độ giọng nói.
+
+6
+00:00:25,000 --> 00:00:30,000
+Mọi dữ liệu huấn luyện đều được lưu trong thư mục dữ liệu.
+
+7
+00:00:30,000 --> 00:00:35,000
+Hệ thống đang xử lý, vui lòng chờ trong giây lát.
+
+8
+00:00:35,000 --> 00:00:40,000
+Quá trình huấn luyện sẽ mất vài giờ để hoàn tất.
+
+9
+00:00:40,000 --> 00:00:45,000
+Kết quả cuối cùng được lưu dưới dạng tệp pth.
+
+10
+00:00:45,000 --> 00:00:50,000
+Cấu hình mô hình được định nghĩa trong tệp JSON.

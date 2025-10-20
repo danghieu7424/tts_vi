@@ -1,0 +1,19 @@
+1
+00:00:00,000 --> 00:00:05,000
+Xin chào, tôi là Eta — một hệ thống tổng hợp giọng nói được huấn luyện từ giọng của bạn, và bây giờ, tôi sẽ thử nói một đoạn thật tự nhiên.
+
+2
+00:00:05,000 --> 00:00:10,000
+Hôm nay là một ngày đẹp trời, và tôi cảm thấy rất phấn khởi khi được nói chuyện với bạn.
+
+3
+00:00:10,000 --> 00:00:15,000
+Nếu bạn nghe thấy giọng tôi rõ và tự nhiên, điều đó nghĩa là mô hình của chúng ta đang hoạt động tốt.
+
+4
+00:00:15,000 --> 00:00:20,000
+Mỗi âm thanh bạn ghi lại đều giúp tôi học cách nói giống bạn hơn, từng chút một.
+
+5
+00:00:20,000 --> 00:00:25,000
+Huấn luyện một mô hình giọng nói không chỉ là kỹ thuật, mà còn là nghệ thuật của ngữ điệu và cảm xúc.

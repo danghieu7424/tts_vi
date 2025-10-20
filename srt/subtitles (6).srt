@@ -1,0 +1,39 @@
+1
+00:00:00,000 --> 00:00:05,000
+Bắt đầu huấn luyện ngay bây giờ.
+
+2
+00:00:05,000 --> 00:00:10,000
+Dừng quá trình và lưu lại kết quả.
+
+3
+00:00:10,000 --> 00:00:15,000
+Vui lòng mở tệp cấu hình để kiểm tra thông tin.
+
+4
+00:00:15,000 --> 00:00:20,000
+Hãy chắc chắn rằng tất cả các tệp âm thanh đều có cùng tần số mẫu.
+
+5
+00:00:20,000 --> 00:00:25,000
+Đọc to câu này trong vòng ba giây.
+
+6
+00:00:25,000 --> 00:00:30,000
+Giữ nguyên tông giọng và tốc độ khi đọc.
+
+7
+00:00:30,000 --> 00:00:35,000
+Lặp lại câu vừa rồi thêm một lần nữa.
+
+8
+00:00:35,000 --> 00:00:40,000
+Hãy thử đọc với cảm xúc vui vẻ.
+
+9
+00:00:40,000 --> 00:00:45,000
+Bây giờ hãy đọc với giọng nghiêm túc hơn.
+
+10
+00:00:45,000 --> 00:00:50,000
+Khi bạn sẵn sàng, hãy nói bắt đầu.

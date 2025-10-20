@@ -1,0 +1,39 @@
+1
+00:00:00,000 --> 00:00:05,000
+Đầu tiên, hãy mở thư mục chứa tệp cấu hình.
+
+2
+00:00:05,000 --> 00:00:10,000
+Sau đó, kiểm tra xem tần số lấy mẫu đã được đặt là hai mươi hai nghìn năm mươi héc chưa.
+
+3
+00:00:10,000 --> 00:00:15,000
+Tiếp theo, hãy đảm bảo rằng tất cả các tệp âm thanh đều có cùng định dạng.
+
+4
+00:00:15,000 --> 00:00:20,000
+Nếu gặp lỗi, bạn có thể thử khởi động lại quá trình huấn luyện.
+
+5
+00:00:20,000 --> 00:00:25,000
+Khi hoàn tất, kết quả sẽ được lưu trong thư mục ghi log.
+
+6
+00:00:25,000 --> 00:00:30,000
+Hãy đảm bảo rằng mô hình đã được tải đúng trước khi bắt đầu suy luận.
+
+7
+00:00:30,000 --> 00:00:35,000
+Đừng quên sao lưu dữ liệu trước khi xóa bất kỳ tệp nào.
+
+8
+00:00:35,000 --> 00:00:40,000
+Bạn có thể tùy chỉnh tốc độ nói trong phần cài đặt.
+
+9
+00:00:40,000 --> 00:00:45,000
+Giọng nói này được tổng hợp hoàn toàn bằng trí tuệ nhân tạo.
+
+10
+00:00:45,000 --> 00:00:50,000
+Quá trình này có thể mất vài giờ, tùy thuộc vào cấu hình máy tính.

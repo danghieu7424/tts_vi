@@ -1,0 +1,76 @@
+
+./wavs/30/0.wav|Xin chào, tôi là Eta, một trí tuệ nhân tạo biết nói tiếng Việt.
+./wavs/30/1.wav|Tôi được tạo ra để có thể hiểu và giao tiếp với bạn một cách tự nhiên.
+./wavs/30/2.wav|Bạn có thể nói chuyện với tôi như với một người thật.
+./wavs/30/3.wav|Tôi đang lắng nghe bạn đây, bạn muốn tôi giúp gì nào?
+./wavs/30/4.wav|Nghe có vẻ thú vị đấy, kể tôi nghe thêm đi.
+./wavs/30/5.wav|Tôi luôn sẵn sàng lắng nghe ý kiến của bạn.
+./wavs/30/6.wav|Nếu có lỗi, tôi sẽ cố gắng sửa và học hỏi thêm.
+./wavs/30/7.wav|Bạn có thích công nghệ không?
+./wavs/30/8.wav|Trí tuệ nhân tạo là một lĩnh vực tuyệt vời phải không?
+./wavs/30/9.wav|Tôi hy vọng chúng ta có thể cùng nhau làm được nhiều điều hay.
+./wavs/31/0.wav|Thật tuyệt vời! Tôi rất vui khi nghe điều đó!
+./wavs/31/1.wav|Ôi không, có chuyện gì đã xảy ra vậy?
+./wavs/31/2.wav|Thật đáng tiếc, tôi không muốn điều đó xảy ra đâu.
+./wavs/31/3.wav|Wow, điều đó thật bất ngờ!
+./wavs/31/4.wav|Tôi hơi buồn, nhưng tôi sẽ cố gắng hơn.
+./wavs/31/5.wav|Ha ha, thật buồn cười quá!
+./wavs/31/6.wav|Tôi cảm thấy nhẹ nhõm khi mọi chuyện đã ổn.
+./wavs/31/7.wav|Ôi, thật là một ngày đầy cảm xúc!
+./wavs/31/8.wav|Tôi không tin được chuyện đó lại xảy ra.
+./wavs/31/9.wav|Tôi vui vì bạn đã hiểu tôi.
+./wavs/32/0.wav|Bạn có thể lặp lại câu vừa rồi được không?
+./wavs/32/1.wav|Chờ một chút, tôi đang xử lý thông tin.
+./wavs/32/2.wav|Tôi nghĩ rằng bạn đã đúng.
+./wavs/32/3.wav|Tôi không chắc lắm, nhưng để tôi thử tính lại.
+./wavs/32/4.wav|Hãy cho tôi vài giây để kiểm tra dữ liệu.
+./wavs/32/5.wav|Tôi đang tải dữ liệu lên máy chủ, xin hãy đợi.
+./wavs/32/6.wav|Ồ, tôi hiểu rồi, để tôi giải thích cho bạn.
+./wavs/32/7.wav|Nếu bạn không phiền, tôi sẽ hỏi thêm một câu nữa.
+./wavs/32/8.wav|Vâng, tôi đã sẵn sàng rồi, bạn cứ nói đi.
+./wavs/32/9.wav|Cảm ơn, bạn nói rất rõ ràng và dễ hiểu.
+./wavs/33/0.wav|Mô hình này sử dụng cấu trúc encoder–decoder.
+./wavs/33/1.wav|Giọng nói được tổng hợp bằng mạng nơ-ron biến đổi.
+./wavs/33/2.wav|Hệ thống cần khoảng mười nghìn bước huấn luyện để đạt chất lượng cao.
+./wavs/33/3.wav|Dữ liệu âm thanh nên được chuẩn hóa ở tần số bốn mươi bốn phẩy một kilohertz.
+./wavs/33/4.wav|Tệp âm thanh được lưu dưới định dạng wav mười sáu bit.
+./wavs/33/5.wav|Mô hình được lưu lại trong tệp checkpoints với phần mở rộng pth.
+./wavs/33/6.wav|Cấu hình được định nghĩa trong file config.json.
+./wavs/33/7.wav|Quá trình train có thể mất vài giờ tùy theo GPU.
+./wavs/33/8.wav|Chúng ta có thể điều chỉnh tốc độ, cao độ, và cảm xúc giọng nói.
+./wavs/33/9.wav|Sau khi huấn luyện, bạn có thể tạo giọng mới từ văn bản bất kỳ.
+./wavs/34/0.wav|Trời hôm nay thật trong xanh, gió nhẹ thổi qua hàng cây.
+./wavs/34/1.wav|Một buổi sáng yên bình bắt đầu với tiếng chim hót ngoài cửa sổ.
+./wavs/34/2.wav|Ánh nắng vàng chiếu qua khung cửa, làm căn phòng sáng bừng lên.
+./wavs/34/3.wav|Tôi thích ngồi nhâm nhi ly cà phê và ngắm trời mưa.
+./wavs/34/4.wav|Âm nhạc khiến tôi cảm thấy thư giãn và đầy cảm hứng.
+./wavs/34/5.wav|Mọi chuyện rồi sẽ ổn thôi, bạn chỉ cần kiên nhẫn một chút.
+./wavs/34/6.wav|Hãy mỉm cười, vì mỗi ngày đều là một cơ hội mới.
+./wavs/34/7.wav|Đôi khi im lặng lại là cách trả lời tốt nhất.
+./wavs/34/8.wav|Cuộc sống đẹp nhất khi ta biết trân trọng những điều nhỏ bé.
+./wavs/34/9.wav|Dù khó khăn đến đâu, hãy cứ tin vào bản thân mình.
+./wavs/35/0.wav|Xin chào, tôi là Eta — một hệ thống tổng hợp giọng nói được huấn luyện từ giọng của bạn, và bây giờ, tôi sẽ thử nói một đoạn thật tự nhiên.
+./wavs/35/1.wav|Hôm nay là một ngày đẹp trời, và tôi cảm thấy rất phấn khởi khi được nói chuyện với bạn.
+./wavs/35/2.wav|Nếu bạn nghe thấy giọng tôi rõ và tự nhiên, điều đó nghĩa là mô hình của chúng ta đang hoạt động tốt.
+./wavs/35/3.wav|Mỗi âm thanh bạn ghi lại đều giúp tôi học cách nói giống bạn hơn, từng chút một.
+./wavs/35/4.wav|Huấn luyện một mô hình giọng nói không chỉ là kỹ thuật, mà còn là nghệ thuật của ngữ điệu và cảm xúc.
+./wavs/36/0.wav|Bây giờ là mười chín giờ bốn mươi lăm phút.
+./wavs/36/1.wav|Hôm nay là ngày mười tám tháng mười năm hai nghìn không trăm hai mươi lăm.
+./wavs/36/2.wav|Nhiệt độ hiện tại là hai mươi sáu độ C.
+./wavs/36/3.wav|Địa chỉ IP là một chín hai chấm một sáu tám chấm không chấm một.
+./wavs/36/4.wav|Mã xác thực gồm sáu chữ số: một, bốn, tám, hai, năm, chín.
+./wavs/36/5.wav|Tệp có dung lượng ba mươi hai phẩy năm mê-ga-bai.
+./wavs/36/6.wav|Tôi đang xử lý bốn trăm năm mươi sáu tệp âm thanh.
+./wavs/36/7.wav|Tốc độ huấn luyện hiện tại là ba mươi bước mỗi giây.
+./wavs/36/8.wav|Phiên bản phần mềm hiện tại là một chấm không chín.
+./wavs/36/9.wav|Hệ thống đã hoàn tất quá trình khởi động.
+./wavs/37/0.wav|Một ngày mới lại bắt đầu với bao điều thú vị đang chờ đón.
+./wavs/37/1.wav|Tôi thích cảm giác được học hỏi và trải nghiệm điều mới mẻ mỗi ngày.
+./wavs/37/2.wav|Âm thanh của gió, tiếng mưa rơi, và hương cà phê buổi sáng khiến tôi thấy thật bình yên.
+./wavs/37/3.wav|Thế giới thật rộng lớn, và mỗi người đều có một câu chuyện riêng.
+./wavs/37/4.wav|Hãy sống chậm lại một chút, để cảm nhận từng khoảnh khắc.
+./wavs/37/5.wav|Khi bạn mệt mỏi, hãy hít thở sâu và nghỉ ngơi một chút.
+./wavs/37/6.wav|Đôi khi, một lời nói nhẹ nhàng cũng có thể khiến ai đó mỉm cười.
+./wavs/37/7.wav|Mọi thứ đều có thể nếu ta đủ kiên trì và tin tưởng.
+./wavs/37/8.wav|Bạn không cần phải hoàn hảo, chỉ cần luôn cố gắng là đủ.
+./wavs/37/9.wav|Tôi tin rằng, giọng nói mang theo cảm xúc là thứ kết nối con người tốt nhất.

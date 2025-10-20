@@ -1,0 +1,39 @@
+1
+00:00:00,000 --> 00:00:05,000
+Hãy nhập câu lệnh bạn muốn tôi thực hiện.
+
+2
+00:00:05,000 --> 00:00:10,000
+Được rồi, để tôi mở phần cấu hình cho bạn.
+
+3
+00:00:10,000 --> 00:00:15,000
+Bây giờ bạn chỉ cần chờ vài giây thôi.
+
+4
+00:00:15,000 --> 00:00:20,000
+Hãy chắc chắn rằng dữ liệu đã được tải lên.
+
+5
+00:00:20,000 --> 00:00:25,000
+Tôi đang khởi tạo mô hình, vui lòng chờ trong giây lát.
+
+6
+00:00:25,000 --> 00:00:30,000
+Khi đèn báo chuyển sang màu xanh, bạn có thể bắt đầu.
+
+7
+00:00:30,000 --> 00:00:35,000
+Tôi đã lưu xong, bạn có thể kiểm tra trong thư mục logs.
+
+8
+00:00:35,000 --> 00:00:40,000
+Nếu có lỗi, tôi sẽ thông báo ngay cho bạn.
+
+9
+00:00:40,000 --> 00:00:45,000
+Tôi có thể hướng dẫn bạn chi tiết hơn nếu cần.
+
+10
+00:00:45,000 --> 00:00:50,000
+Bắt đầu quá trình huấn luyện ngay bây giờ nhé.

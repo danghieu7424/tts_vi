@@ -1,0 +1,39 @@
+1
+00:00:00,000 --> 00:00:05,000
+Bạn có thể lặp lại câu vừa rồi được không?
+
+2
+00:00:05,000 --> 00:00:10,000
+Chờ một chút, tôi đang xử lý thông tin.
+
+3
+00:00:10,000 --> 00:00:15,000
+Tôi nghĩ rằng bạn đã đúng.
+
+4
+00:00:15,000 --> 00:00:20,000
+Tôi không chắc lắm, nhưng để tôi thử tính lại.
+
+5
+00:00:20,000 --> 00:00:25,000
+Hãy cho tôi vài giây để kiểm tra dữ liệu.
+
+6
+00:00:25,000 --> 00:00:30,000
+Tôi đang tải dữ liệu lên máy chủ, xin hãy đợi.
+
+7
+00:00:30,000 --> 00:00:35,000
+Ồ, tôi hiểu rồi, để tôi giải thích cho bạn.
+
+8
+00:00:35,000 --> 00:00:40,000
+Nếu bạn không phiền, tôi sẽ hỏi thêm một câu nữa.
+
+9
+00:00:40,000 --> 00:00:45,000
+Vâng, tôi đã sẵn sàng rồi, bạn cứ nói đi.
+
+10
+00:00:45,000 --> 00:00:50,000
+Cảm ơn, bạn nói rất rõ ràng và dễ hiểu.

@@ -1,0 +1,39 @@
+1
+00:00:00,000 --> 00:00:05,000
+Nhiệt độ hiện tại là hai mươi tám phẩy năm độ C.
+
+2
+00:00:05,000 --> 00:00:10,000
+Thời gian huấn luyện trung bình là hai giờ mười lăm phút.
+
+3
+00:00:10,000 --> 00:00:15,000
+Tốc độ xử lý đạt bốn mươi mẫu mỗi giây.
+
+4
+00:00:15,000 --> 00:00:20,000
+Mẫu âm thanh dài ba giây rưỡi.
+
+5
+00:00:20,000 --> 00:00:25,000
+Mã dự án là E, T, A, gạch nối, không, một.
+
+6
+00:00:25,000 --> 00:00:30,000
+Phiên bản hệ thống hiện tại là một chấm hai chấm năm.
+
+7
+00:00:30,000 --> 00:00:35,000
+Dung lượng bộ nhớ còn lại là bảy trăm năm mươi mê-ga-bai.
+
+8
+00:00:35,000 --> 00:00:40,000
+Pin còn sáu mươi lăm phần trăm.
+
+9
+00:00:40,000 --> 00:00:45,000
+Tôi đã ghi lại hai trăm năm mươi tám câu thoại.
+
+10
+00:00:45,000 --> 00:00:50,000
+Dự đoán độ chính xác đạt chín mươi tám phẩy ba phần trăm.

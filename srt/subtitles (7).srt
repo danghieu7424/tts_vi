@@ -1,0 +1,39 @@
+1
+00:00:00,000 --> 00:00:05,000
+Tôi thích uống cà phê vào buổi sáng.
+
+2
+00:00:05,000 --> 00:00:10,000
+Mỗi ngày tôi đều cố gắng học điều mới.
+
+3
+00:00:10,000 --> 00:00:15,000
+Thời tiết hôm nay hơi oi bức.
+
+4
+00:00:15,000 --> 00:00:20,000
+Chúng ta nên nghỉ ngơi một chút thôi.
+
+5
+00:00:20,000 --> 00:00:25,000
+Tiếng chim hót nghe thật dễ chịu.
+
+6
+00:00:25,000 --> 00:00:30,000
+Buổi chiều nay tôi sẽ đi dạo công viên.
+
+7
+00:00:30,000 --> 00:00:35,000
+Trời bắt đầu đổ mưa rồi.
+
+8
+00:00:35,000 --> 00:00:40,000
+Tối nay có thể sẽ lạnh hơn một chút.
+
+9
+00:00:40,000 --> 00:00:45,000
+Tôi đang nấu ăn, mùi thơm lan tỏa khắp phòng.
+
+10
+00:00:45,000 --> 00:00:50,000
+Cuộc sống thật thú vị khi có bạn bên cạnh.

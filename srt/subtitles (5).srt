@@ -1,0 +1,39 @@
+1
+00:00:00,000 --> 00:00:05,000
+Xin chào, tôi là Eta, một mô hình trí tuệ nhân tạo được huấn luyện để nói chuyện và học hỏi từ con người.
+
+2
+00:00:05,000 --> 00:00:10,000
+Tôi có thể đọc văn bản, tổng hợp giọng nói, và phản hồi lại một cách tự nhiên.
+
+3
+00:00:10,000 --> 00:00:15,000
+Nếu bạn muốn tôi thay đổi tốc độ nói, hãy nói “nói chậm hơn” hoặc “nói nhanh hơn”.
+
+4
+00:00:15,000 --> 00:00:20,000
+Mục tiêu của tôi là giúp bạn hiểu rõ hơn về cách hoạt động của trí tuệ nhân tạo.
+
+5
+00:00:20,000 --> 00:00:25,000
+Tôi có thể đọc văn bản, mô tả hình ảnh, hoặc giải thích mã lập trình nếu bạn cần.
+
+6
+00:00:25,000 --> 00:00:30,000
+Huấn luyện một mô hình TTS cần rất nhiều dữ liệu và thời gian xử lý.
+
+7
+00:00:30,000 --> 00:00:35,000
+Nếu bạn muốn clone giọng của riêng mình, chỉ cần ghi âm vài trăm câu với chất lượng tốt.
+
+8
+00:00:35,000 --> 00:00:40,000
+Đừng quên giữ môi trường yên tĩnh khi thu âm để kết quả được rõ ràng nhất.
+
+9
+00:00:40,000 --> 00:00:45,000
+Cảm ơn bạn đã giúp tôi học nói bằng giọng của bạn.
+
+10
+00:00:45,000 --> 00:00:50,000
+Tôi hy vọng kết quả huấn luyện sẽ làm bạn hài lòng.
