@@ -21,13 +21,13 @@
 ./wavs/2/0.wav|Hôm nay trời nhiều mây và có gió nhẹ.
 ./wavs/2/1.wav|Tôi đang học cách sử dụng mô hình trí tuệ nhân tạo.
 ./wavs/2/2.wav|Âm thanh được xử lý bằng mạng nơ-ron sâu.
-./wavs/2/3.wav|Giọng nói này được tạo ra bằng mô hình ViTS.
+./wavs/2/3.wav|Giọng nói này được tạo ra bằng mô hình [en](ViTS).
 ./wavs/2/4.wav|Chúng ta có thể điều chỉnh tốc độ và cao độ giọng nói.
 ./wavs/2/5.wav|Mọi dữ liệu huấn luyện đều được lưu trong thư mục dữ liệu.
 ./wavs/2/6.wav|Hệ thống đang xử lý, vui lòng chờ trong giây lát.
 ./wavs/2/7.wav|Quá trình huấn luyện sẽ mất vài giờ để hoàn tất.
 ./wavs/2/8.wav|Kết quả cuối cùng được lưu dưới dạng tệp pth.
-./wavs/2/9.wav|Cấu hình mô hình được định nghĩa trong tệp JSON.
+./wavs/2/9.wav|Cấu hình mô hình được định nghĩa trong tệp [en](JSON).
 ./wavs/3/0.wav|Bạn đang làm gì thế?
 ./wavs/3/1.wav|Tôi có thể hỏi bạn một vài điều không?
 ./wavs/3/2.wav|Bạn có thích nghe nhạc không?

@@ -1,19 +1,11 @@
+## thiết lập:
+
 ```
-py -3.10 -m venv venv
-venv/Scripts/activate
-python.exe -m pip install --upgrade pip
-pip install setuptools wheel -U
-```
-```
-#gpu
+sudo apt install ffmpeg sox
+python3 -m venv venv
+source venv/bin/activate
 pip install torch torchvision torchaudio --index-url https://download.pytorch.org/whl/cu121
-```
-```
-#cpu
-pip install torch torchvision torchaudio
-```
-```
-pip install -r requirements.txt
+pip install numpy scipy librosa unidecode inflect tqdm matplotlib phonemizer pyyaml tensorboard
 ```
 
 ## 📁 Cấu trúc thư mục
@@ -35,7 +27,7 @@ vits_tts/
  │    ├── metadata_1.csv
  │    ├── metadata_2.csv
  │    ├── metadata_3.csv
- │    └── metadata_test.csv
+ │    └── metadata_val.csv
  ├── train.py
  └── inference.py
 ```

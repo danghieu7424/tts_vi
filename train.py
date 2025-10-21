@@ -1,24 +1,35 @@
 import torch
-import torch.nn as nn
 import torch.optim as optim
 from tqdm import tqdm
-import os, json, librosa, soundfile as sf
+import os, json
 from vits.model import VITS
 from vits.dataset import TTSDataset
 
 # Load config
-with open("configs/config.json") as f:
+with open("data/configs/config_vi.json") as f:
     config = json.load(f)
 
 device = torch.device("cuda" if torch.cuda.is_available() else "cpu")
 
-# Load dataset
+# Dataset & loader
 dataset = TTSDataset(config["data"])
-dataloader = torch.utils.data.DataLoader(dataset, batch_size=config["train"]["batch_size"], shuffle=True)
+dataloader = torch.utils.data.DataLoader(
+    dataset, batch_size=config["train"]["batch_size"], shuffle=True
+)
 
-# Create model
+# Model
 model = VITS(config["model"]).to(device)
-optimizer = optim.Adam(model.parameters(), lr=config["train"]["learning_rate"])
+optimizer = optim.Adam(
+    model.parameters(),
+    lr=config["train"]["learning_rate"],
+    betas=tuple(config["train"]["betas"]),
+    eps=config["train"]["eps"]
+)
+scheduler = torch.optim.lr_scheduler.ExponentialLR(
+    optimizer, gamma=config["train"]["lr_decay"]
+)
+
+os.makedirs("logs", exist_ok=True)
 
 # Training loop
 for epoch in range(config["train"]["epochs"]):
@@ -31,9 +42,10 @@ for epoch in range(config["train"]["epochs"]):
         optimizer.step()
         loop.set_postfix(loss=loss.item())
     
-    if (epoch + 1) % 10 == 0:
+    scheduler.step()
+
+    if (epoch + 1) % config["train"]["save_every_epoch"] == 0:
         torch.save(model.state_dict(), f"logs/vits_voice_clone_{epoch+1}.pth")
 
-# Save final
 torch.save(model.state_dict(), "logs/vits_voice_clone.pth")
-print("✅ Training done. Model saved to logs/vits_voice_clone.pth")
+print("✅ Training done.")

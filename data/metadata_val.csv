@@ -29,14 +29,14 @@
 ./wavs/32/7.wav|Nếu bạn không phiền, tôi sẽ hỏi thêm một câu nữa.
 ./wavs/32/8.wav|Vâng, tôi đã sẵn sàng rồi, bạn cứ nói đi.
 ./wavs/32/9.wav|Cảm ơn, bạn nói rất rõ ràng và dễ hiểu.
-./wavs/33/0.wav|Mô hình này sử dụng cấu trúc encoder–decoder.
+./wavs/33/0.wav|Mô hình này sử dụng cấu trúc [en](encoder–decoder).
 ./wavs/33/1.wav|Giọng nói được tổng hợp bằng mạng nơ-ron biến đổi.
 ./wavs/33/2.wav|Hệ thống cần khoảng mười nghìn bước huấn luyện để đạt chất lượng cao.
-./wavs/33/3.wav|Dữ liệu âm thanh nên được chuẩn hóa ở tần số bốn mươi bốn phẩy một kilohertz.
-./wavs/33/4.wav|Tệp âm thanh được lưu dưới định dạng wav mười sáu bit.
+./wavs/33/3.wav|Dữ liệu âm thanh nên được chuẩn hóa ở tần số bốn mươi bốn phẩy một [en](kilohertz).
+./wavs/33/4.wav|Tệp âm thanh được lưu dưới định dạng [en](wav) mười sáu bit.
 ./wavs/33/5.wav|Mô hình được lưu lại trong tệp checkpoints với phần mở rộng pth.
-./wavs/33/6.wav|Cấu hình được định nghĩa trong file config.json.
-./wavs/33/7.wav|Quá trình train có thể mất vài giờ tùy theo GPU.
+./wavs/33/6.wav|Cấu hình được định nghĩa trong [en](file config.json).
+./wavs/33/7.wav|Quá trình [en](train) có thể mất vài giờ tùy theo [en](GPU).
 ./wavs/33/8.wav|Chúng ta có thể điều chỉnh tốc độ, cao độ, và cảm xúc giọng nói.
 ./wavs/33/9.wav|Sau khi huấn luyện, bạn có thể tạo giọng mới từ văn bản bất kỳ.
 ./wavs/34/0.wav|Trời hôm nay thật trong xanh, gió nhẹ thổi qua hàng cây.
